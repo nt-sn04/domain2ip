@@ -22,5 +22,85 @@
         "openai.com"
     ],
     "ips": [
+        {
+            "domain": "kun.uz",
+            "ip": "172.67.75.125"
+        },
+        {
+            "domain": "google.com",
+            "ip": "142.251.140.174"
+        },
+        {
+            "domain": "youtube.com",
+            "ip": "142.251.141.142"
+        },
+        {
+            "domain": "facebook.com",
+            "ip": "31.13.72.36"
+        },
+        {
+            "domain": "twitter.com",
+            "ip": "151.101.2.146"
+        },
+        {
+            "domain": "instagram.com",
+            "ip": "31.13.72.174"
+        },
+        {
+            "domain": "linkedin.com",
+            "ip": "150.171.22.12"
+        },
+        {
+            "domain": "github.com",
+            "ip": "140.82.121.4"
+        },
+        {
+            "domain": "stackoverflow.com",
+            "ip": "198.252.206.1"
+        },
+        {
+            "domain": "medium.com",
+            "ip": "162.159.152.4"
+        },
+        {
+            "domain": "wikipedia.org",
+            "ip": "185.15.59.224"
+        },
+        {
+            "domain": "amazon.com",
+            "ip": "98.82.161.185"
+        },
+        {
+            "domain": "netflix.com",
+            "ip": "54.170.196.176"
+        },
+        {
+            "domain": "reddit.com",
+            "ip": "151.101.129.140"
+        },
+        {
+            "domain": "yahoo.com",
+            "ip": "74.6.143.26"
+        },
+        {
+            "domain": "bing.com",
+            "ip": "150.171.28.10"
+        },
+        {
+            "domain": "apple.com",
+            "ip": "17.253.144.10"
+        },
+        {
+            "domain": "microsoft.com",
+            "ip": "13.107.246.53"
+        },
+        {
+            "domain": "cloudflare.com",
+            "ip": "104.16.133.229"
+        },
+        {
+            "domain": "openai.com",
+            "ip": "172.64.154.211"
+        }
     ]
 }
