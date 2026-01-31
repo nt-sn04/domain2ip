@@ -1,0 +1,26 @@
+{
+    "domains": [
+        "kun.uz",
+        "google.com",
+        "youtube.com",
+        "facebook.com",
+        "twitter.com",
+        "instagram.com",
+        "linkedin.com",
+        "github.com",
+        "stackoverflow.com",
+        "medium.com",
+        "wikipedia.org",
+        "amazon.com",
+        "netflix.com",
+        "reddit.com",
+        "yahoo.com",
+        "bing.com",
+        "apple.com",
+        "microsoft.com",
+        "cloudflare.com",
+        "openai.com"
+    ],
+    "ips": [
+    ]
+}
